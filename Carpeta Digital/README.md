@@ -1,4 +1,4 @@
-# Proyecto de Virtualización
+# Trabajo Practico Integrador I 
 
 ## [ESTUDIANTES]  
 - Barroso Nikolas  
@@ -7,11 +7,10 @@
 ## [COMISIÓN 15]
 
 ## [TEMA ELEGIDO]  
-**Virtualización**
+**Busqueda y Ordenamiento**
 
 ## [OBJETIVOS DEL PROYECTO]  
-Nuestro objetivo fue aplicar estas tecnologías en escenarios reales de ciberseguridad y desarrollo.  
-Nos enfocamos especialmente en el análisis seguro de archivos potencialmente maliciosos y en el monitoreo de recursos.
+Este trabajo surge de una necesidad concreta: entender cómo mejorar la eficiencia de nuestras aplicaciones mediante el uso correcto de algoritmos. En una era donde se generan miles de millones de datos por minuto, saber cómo buscarlos y ordenarlos de manera eficaz es indispensable.
 
 ### Links de interés:
 
