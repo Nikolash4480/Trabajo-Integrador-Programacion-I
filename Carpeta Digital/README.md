@@ -14,5 +14,5 @@ Este trabajo surge de una necesidad concreta: entender cómo mejorar la eficienc
 
 ### Links de interés:
 
-🔗 **[Trabajo Práctico en GitHub](https://github.com/Nikolash4480/Virtualizacion/tree/main/Carpeta%20Digital)**  
-📹 **[Video en Google Drive](https://drive.google.com/file/d/16A0AWMeQ_dLPzHs3vjTSQrswGEJJLmBy/view?usp=sharing)**
+🔗 **[Trabajo Práctico en GitHub](https://github.com/Nikolash4480/Trabajo-Integrador-Programacion-I/tree/main/Carpeta%20Digital)**  
+📹 **[Video en Google Drive](none)**
