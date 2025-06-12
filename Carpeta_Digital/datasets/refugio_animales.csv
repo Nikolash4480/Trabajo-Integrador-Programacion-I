@@ -1,0 +1,51 @@
+id_chip,nombre,especie,raza,edad,peso,fecha_ingreso,estado_salud,adoptado
+CHIP0001,Animal1,Gato,Maine Coon,39,34.4,2024-10-04,Bueno,Si
+CHIP0002,Animal2,Pájaro,Desconocido,68,17.88,2024-06-24,Bueno,Si
+CHIP0003,Animal3,Pájaro,Desconocido,109,48.15,2023-07-27,Crítico,No
+CHIP0004,Animal4,Gato,Persa,88,17.03,2024-08-18,Bueno,No
+CHIP0005,Animal5,Pájaro,Desconocido,83,4.33,2023-10-28,Bueno,No
+CHIP0006,Animal6,Perro,Bulldog Francés,117,33.24,2024-01-25,Excelente,Si
+CHIP0007,Animal7,Conejo,Desconocido,64,25.18,2023-10-18,Bueno,Si
+CHIP0008,Animal8,Perro,Poodle,119,23.8,2023-06-25,Bueno,No
+CHIP0009,Animal9,Gato,Persa,75,13.23,2023-10-26,Regular,Si
+CHIP0010,Animal10,Hamster,Desconocido,44,3.71,2025-02-01,Regular,No
+CHIP0011,Animal11,Pájaro,Desconocido,33,26.44,2024-07-06,Regular,Si
+CHIP0012,Animal12,Perro,Bulldog Francés,32,31.05,2024-10-09,Crítico,Si
+CHIP0013,Animal13,Gato,Siamés,92,37.66,2024-03-26,Regular,Si
+CHIP0014,Animal14,Perro,Pastor Alemán,81,18.32,2024-08-11,Bueno,Si
+CHIP0015,Animal15,Perro,Pastor Alemán,59,43.13,2024-11-25,Bueno,No
+CHIP0016,Animal16,Gato,Bengalí,50,11.43,2023-09-07,Crítico,Si
+CHIP0017,Animal17,Hamster,Desconocido,52,38.61,2024-10-30,Bueno,No
+CHIP0018,Animal18,Conejo,Desconocido,8,25.27,2024-07-03,Bueno,No
+CHIP0019,Animal19,Gato,Bengalí,33,8.43,2024-01-26,Excelente,No
+CHIP0020,Animal20,Gato,Bengalí,1,17.05,2024-03-11,Crítico,No
+CHIP0021,Animal21,Perro,Labrador,114,21.09,2023-11-27,Crítico,No
+CHIP0022,Animal22,Perro,Bulldog Francés,74,11.64,2025-02-21,Bueno,No
+CHIP0023,Animal23,Pájaro,Desconocido,13,28.1,2024-06-05,Regular,No
+CHIP0024,Animal24,Perro,Bulldog Francés,73,3.53,2024-09-19,Excelente,Si
+CHIP0025,Animal25,Gato,Maine Coon,12,15.59,2025-02-22,Regular,Si
+CHIP0026,Animal26,Gato,Bengalí,31,28.37,2024-04-21,Crítico,No
+CHIP0027,Animal27,Hamster,Desconocido,90,47.36,2023-10-19,Excelente,Si
+CHIP0028,Animal28,Pájaro,Desconocido,52,15.98,2024-06-14,Excelente,Si
+CHIP0029,Animal29,Conejo,Desconocido,17,31.71,2023-06-20,Bueno,Si
+CHIP0030,Animal30,Perro,Bulldog Francés,8,46.19,2024-07-19,Bueno,No
+CHIP0031,Animal31,Pájaro,Desconocido,52,38.81,2025-06-01,Crítico,No
+CHIP0032,Animal32,Conejo,Desconocido,100,13.03,2024-12-22,Crítico,Si
+CHIP0033,Animal33,Hamster,Desconocido,27,5.45,2024-11-13,Excelente,No
+CHIP0034,Animal34,Hamster,Desconocido,83,10.49,2025-04-04,Crítico,No
+CHIP0035,Animal35,Pájaro,Desconocido,90,43.53,2025-06-03,Regular,Si
+CHIP0036,Animal36,Gato,Persa,102,40.47,2023-06-19,Regular,Si
+CHIP0037,Animal37,Hamster,Desconocido,6,12.94,2023-08-15,Regular,No
+CHIP0038,Animal38,Hamster,Desconocido,65,19.35,2023-10-13,Excelente,Si
+CHIP0039,Animal39,Pájaro,Desconocido,97,45.34,2024-02-19,Bueno,Si
+CHIP0040,Animal40,Pájaro,Desconocido,57,28.36,2024-12-23,Regular,No
+CHIP0041,Animal41,Perro,Pastor Alemán,1,29.58,2024-05-07,Crítico,Si
+CHIP0042,Animal42,Hamster,Desconocido,35,19.9,2025-04-29,Crítico,No
+CHIP0043,Animal43,Perro,Golden Retriever,12,10.34,2024-02-10,Crítico,No
+CHIP0044,Animal44,Conejo,Desconocido,15,4.69,2024-04-12,Crítico,Si
+CHIP0045,Animal45,Pájaro,Desconocido,119,16.79,2024-07-13,Regular,No
+CHIP0046,Animal46,Hamster,Desconocido,113,16.45,2024-10-12,Regular,Si
+CHIP0047,Animal47,Pájaro,Desconocido,97,31.79,2024-12-24,Excelente,No
+CHIP0048,Animal48,Gato,Maine Coon,53,5.53,2024-02-18,Excelente,Si
+CHIP0049,Animal49,Pájaro,Desconocido,84,10.2,2023-06-21,Crítico,No
+CHIP0050,Animal50,Conejo,Desconocido,67,1.42,2025-02-08,Bueno,Si
