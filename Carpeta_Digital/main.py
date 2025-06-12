@@ -151,7 +151,7 @@ if __name__ == "__main__":
 
     while True:
         print("\n" + "="*40)
-        print("         MENÚ DE INFORMACIÓN DE CASOS")
+        print("         MENÚ DE INFORMACIÓN")
         print("="*40)
         print("1. Información del Caso 1: Gestión de Animales")
         print("2. Información del Caso 2: Adopciones y Seguimiento")
